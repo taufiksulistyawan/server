@@ -401,6 +401,18 @@ Pastikan beberapa hal berikut sudah berhasil:
 * [ ] IP yang diblokir dapat di-unban jika diperlukan
 
 ---
+## 11. Install Speedtest CLI
+
+Install jika belum tersedia:
+
+```bash
+sudo apt update
+sudo apt install speedtest-cli -y
+```
+Kemudian jalankan:
+```bash
+speedtest-cli
+```
 
 ## Catatan Keamanan
 
